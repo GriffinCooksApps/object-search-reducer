@@ -23,12 +23,6 @@
     "url": "https://github.com/sacridias/object-search-reducer/issues"
   },
   "homepage": "https://github.com/sacridias/object-search-reducer#readme",
-  "devDependencies": {
-    "eslint": "^7.6.0",
-    "jest": "^26.4.0"
-  },
-  "dependencies": {
-    "@airbrake/browser": "^1.4.1",
-    "@airbrake/node": "^1.4.1"
-  }
+  "devDependencies": {},
+  "dependencies": {}
 }
