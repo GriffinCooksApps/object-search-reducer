@@ -2,7 +2,9 @@
   "name": "object-search-reducer",
   "version": "0.0.3",
   "description": "A tool to search and reduce larger objects.  Useful for json query results of graphql.",
+  "type": "module",
   "main": "index.js",
+  
   "scripts": {
     "test": "jest"
   },
