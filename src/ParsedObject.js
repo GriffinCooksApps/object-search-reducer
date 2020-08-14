@@ -52,7 +52,7 @@ class ParsedObject {
   }
   _$getIndex(label) {
     if (label) {
-      if (this._$mapIndex.has(label){
+      if (this._$mapIndex.has(label)){
         return this._$mapIndex.get(label)
       }
     }
